@@ -1,0 +1,6 @@
+D:\GitTest\DesignPatterns\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\GitTest\DesignPatterns\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\GitTest\DesignPatterns\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\GitTest\DesignPatterns\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\GitTest\DesignPatterns\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\GitTest\DesignPatterns\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

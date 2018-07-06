@@ -1,0 +1,17 @@
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\GitTest\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\GitTest\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\GitTest\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\System.ValueTuple.dll
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\System.ValueTuple.xml
+D:\GitTest\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CopyComplete
+D:\GitTest\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\Autofac.dll
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\MoreLinq.dll
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\nunit.framework.dll
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\Autofac.xml
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\MoreLinq.xml
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\nunit.framework.pdb
+D:\GitTest\DesignPatterns\DesignPatterns\bin\Debug\nunit.framework.xml
